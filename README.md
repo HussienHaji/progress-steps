@@ -1,1 +1,1 @@
-countin progrees steps for showing how much of work has bin don.
+counting progrees steps for showing how much of work has bin don.
